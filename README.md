@@ -4,24 +4,25 @@ Google Drive link:  https://drive.google.com/open?id=0B29M3sfdctitZEVuVFhPZmNZd0
 
 # Программа:
 
-Beginner (September):
+### Beginner:
 
 Введение в биоинформатику: https://www.coursera.org/course/bioinfo
 
 Tales from the Genome by 23andme:
 https://www.udacity.com/course/tales-from-the-genome--bio110
 
-Algorithms Part I  by Princeton University (Sedgewick)
-https://www.coursera.org/course/algs4partI
-Accompanying site & book:
-http://algs4.cs.princeton.edu/home/
 
 
-Intermediate (October-November):
+### Intermediate:
 
 Genomic Data Science specialization on Coursera by Johns Hopkins University
 https://www.coursera.org/specialization/genomics/41?utm_medium=courseDescripTop
 (mandatory: 1,4,5,7)
+
+Algorithms Part I  by Princeton University (Sedgewick)
+https://www.coursera.org/course/algs4partI
+Accompanying site & book:
+http://algs4.cs.princeton.edu/home/
 
 Algorithms Part II by Princeton University (Sedgewick)
 https://www.coursera.org/course/algs4partII
@@ -29,7 +30,7 @@ Accompanying site & book:
 http://algs4.cs.princeton.edu/home/
 
 
-Advanced (December-April):
+### Advanced:
 
 Bioinformatics algorithms by UC San Diego (Pavel Pevzner)
 1. https://www.coursera.org/course/hiddenmessages
