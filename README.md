@@ -6,6 +6,8 @@ Google Drive link:  https://drive.google.com/open?id=0B29M3sfdctitZEVuVFhPZmNZd0
 
 Beginner (September):
 
+Введение в биоинформатику: https://www.coursera.org/course/bioinfo
+
 Tales from the Genome by 23andme:
 https://www.udacity.com/course/tales-from-the-genome--bio110
 
