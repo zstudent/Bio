@@ -4,6 +4,23 @@ Google Drive link:  https://drive.google.com/open?id=0B29M3sfdctitZEVuVFhPZmNZd0
 
 # Программа:
 
+
+## Материалы на русском языке:
+
+Введение в биоинформатику (СПбГУ)
+https://www.coursera.org/course/bioinfo
+
+Генетика (Genetics)
+Novosibirsk State University
+https://www.coursera.org/learn/nsu-genetics
+
+Алгоритмы в биоинформатике (Сергей Нурк, Николай Вяххи, Антон Банкевич)
+Computer Science Center
+https://www.lektorium.tv/course/22933
+
+
+## Материалы на английском языке:
+
 ### Beginner:
 
 Введение в биоинформатику: https://www.coursera.org/course/bioinfo
@@ -31,6 +48,7 @@ http://algs4.cs.princeton.edu/home/
 
 
 ### Advanced:
+
 
 Bioinformatics algorithms by UC San Diego (Pavel Pevzner)
 1. https://www.coursera.org/course/hiddenmessages
