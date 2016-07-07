@@ -8,7 +8,7 @@ Google Drive link:  https://drive.google.com/open?id=0B29M3sfdctitZEVuVFhPZmNZd0
 ## Материалы на русском языке:
 
 Введение в биоинформатику (СПбГУ)
-https://www.coursera.org/course/bioinfo
+https://www.coursera.org/course/bioinfo  или https://drive.google.com/folderview?id=0B29M3sfdctitc1dWRGZCMUhrYjQ&usp=sharing
 
 Генетика (Genetics)
 Novosibirsk State University
