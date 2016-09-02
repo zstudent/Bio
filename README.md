@@ -23,7 +23,6 @@ https://www.lektorium.tv/course/22933
 
 ### Beginner:
 
-Введение в биоинформатику: https://www.coursera.org/course/bioinfo
 
 Tales from the Genome by 23andme:
 https://www.udacity.com/course/tales-from-the-genome--bio110
@@ -31,6 +30,9 @@ https://www.udacity.com/course/tales-from-the-genome--bio110
 
 
 ### Intermediate:
+
+https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-3
+
 
 Genomic Data Science specialization on Coursera by Johns Hopkins University
 https://www.coursera.org/specialization/genomics/41?utm_medium=courseDescripTop
